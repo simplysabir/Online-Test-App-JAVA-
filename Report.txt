@@ -1,0 +1,73 @@
+JAVA MINI PROJECT
+
+TOPIC :- ONLINE TEST APP
+
+GROUP MEMBERS :-
+1.	Khan Sabir ( 201P056 SE COMPS )
+2.	Khan Shamimmurraza ( 201P046 SE COMPS )
+3.	Khan Arshad ( 201P030 SE COMPS )
+
+
+
+
+SUBJECT INCHARGE :- PROF. ASHFAQUE SHAIKH 
+
+
+
+
+CONTENT 
+1.	Introduction.
+2.	Project description and algorithm.
+3.	Implementation of project.
+4.	Conclusion.
+5.	Reference.
+
+
+
+                   INTRODUCTION 
+
+Online Test App is a type of Application Where Students can Attend a Test for Practice. At a specific time, examine gets a message to begin the exam. Test will be of MCQ Type. Examiner can set the questions and Student Cam Attend it. It also makes checking the answers secure and error free as Computers are more accurate than men to provide fast results 
+
+ 
+         	PROJECT DISCRIPTION AND 
+				ALGORITHM
+
+Some of you already know about the online test app. It is a platform where students will get the questions on their screen added by the admin. The students uses this platform to solve the questions and there will be a no of questions and a mixture of easy and tough questions and when the students done solving the questions then in the end. The results  will show how many correct answers you got. And if students wants they can re attend by restarting the app and the questions set will be change by the admin which will be displayed on the screen by the admin.
+
+ALGORITHM
+
+1) Start the App. 
+2) Students will get the questions on their screen added by the admin. 
+3) Now , students can use this platform to attend the questions 
+4) There will be a number of questions and it will be decided by the admin
+5) In the End, Results will show how many correct answers you got
+6) If you lose to score the marks you can re attend the questions by restarting the app 
+7) By restarting the app the students will different questions which will be change by the admin.
+
+			    IMPLEMENTATION 
+				   OF PROJECT
+
+Initially, you have to create a frame for the questions. For that create a class called Online Test which contains the main method. Then create boundaries by assigning the dimension. Along with this use JFrame which is a built-in class for the minimize and close functions Import Jframe package also.
+Online Test App class also Implement action listener for some functionality.
+We have used Jframe for designing appearance of questions.
+For MCQ...options we have used radiobuttons and for Printing Questions obviously String. 
+And Foe next and Results we have used Normal Button. 
+And for storing No.of Questions we have used in Array.
+After that we have caller setData( ) Method to give/ delete/ Updates questions then you have to make changes in setData( ) methods. 
+For checking whether answers is right or wrong we have created checkAns( ) method of Boolean type.Here we have stored correct Answers for Each question. It basically checks whether user is selected Right option or not via indexing. 
+Atlast we have override the action Performed Method and here we have started few conditions for checking results and all.
+
+ 
+
+				   
+CONCLUSION 
+
+In all, Online test app can be used anywhere anytime. It is a web-based application. Complete and safe information is provided to the user. Design to provide or facilitate Administrator and User. Responses or the answers by the candidates can be checked automatically and instantly. The results can be shown reducing the anxiety. It will reduce paperwork to be an integrated online Examination system. Online Test App demonstrated our learning and new found swing gui in java coding. We have learned something new and this project also make our java concept strong 	
+
+
+				REFERENCE 
+Invaluable source of reference was our subject incharge Ashfaque sir.The most frequent reference was made by javapoint , geeksforgeeks , tutorialspoint , and other such websites. More tutorials were founded sites in content provided by independent content creators at YouTube and other websites.
+
+geeksforgeeks
+tutorialspoint.com
+javapoint.com
